@@ -84,7 +84,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <h1>Todo List</h1>
+        <h1>To-do List</h1>
       </div>
 
       <div className="forms">
